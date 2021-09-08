@@ -1,0 +1,2 @@
+Archivo Correspondiente a la segunda rama
+Simulacion de conflicto.
