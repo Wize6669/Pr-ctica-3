@@ -8,5 +8,8 @@ Z
 Z
 Z
 Z
+XD
+Hola Conflicto main
+XD
 Archivo Correspondiente a la segunda rama
 Simulacion de conflicto.
